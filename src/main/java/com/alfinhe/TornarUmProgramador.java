@@ -59,7 +59,7 @@ public class TornarUmProgramador< Motivacao > {
         System.out.println ( "1 - Estudar" );
         System.out.println ( "2 - Fazer projetos" );
         System.out.println ( "3 - Dormir" );
-        System.out.println ( "4 - Buscar participar nos projeto e evento" );
+        System.out.println ( "4 - Buscar participar nos projeto e eventos de Ti" );
         }
         public void main( String[] args ) {
             TornarUmProgramador tornarUmProgramador = new TornarUmProgramador ( );
